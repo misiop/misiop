@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="center">
-   Me entusiasma la tecnología y la electrónica, entusiasta de la botanica
+   Me apasiona la tecnología y la electrónica, entusiasta de la botanica
 </h3>
 
 
@@ -16,7 +16,8 @@
 </p>
 
 <p align="center">
-   Predispuesto a trabajar en proyectos colaborativos, <strong>contactame!</strong> <br />
+   Predispuesto a trabajar en proyectos colaborativos <br />
+   <strong>¡contactame 👇!</strong>
 </p>
 <p align="center">
    <a href="mailto:flabradormb@gmail.com" target="blank" style='margin-right:4px'>
