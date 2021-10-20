@@ -23,7 +23,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="flabradormb@gmail.com" height="28px" width="28px" />
   </a>
    <a href="www.linkedin.com/in/FernandoLabradorB" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/likedin.svg" alt="FernandoLabradorB" height="28px" width="28px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="FernandoLabradorB" height="28px" width="28px" />
   </a>
   <a href="https://twitter.com/FLabradorMB/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="FLabradorMB" height="28px" width="28px" />
