@@ -27,8 +27,8 @@
   </a>
 </p>
 
-   
-<img alt="emoji animado Planta joven🌱 title="🌱planta joven" src="https://cdn.dribbble.com/users/309027/screenshots/16693821/media/5a173757ead76cef903c4225af0114d0.gif" height="35" width="35">
+<p>
+<img alt="emoji animado Planta joven🌱 title="🌱planta joven" src="https://cdn.dribbble.com/users/309027/screenshots/16693821/media/5a173757ead76cef903c4225af0114d0.gif" height="35" width="35"></p>
 <!--
 **misiop/misiop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
