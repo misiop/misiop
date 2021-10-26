@@ -26,7 +26,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="FLabradorMB" height="28px" width="28px" />
   </a>
 </p>
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://cdn.dribbble.com/users/309027/screenshots/16693821/media/5a173757ead76cef903c4225af0114d0.gif" width="743" height="557">
+
 <!--
 **misiop/misiop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
