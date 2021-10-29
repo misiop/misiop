@@ -34,7 +34,7 @@
    height:100px;
    background-color:red;
    }
-  </style>
+</style>
    
 <div id="target" style="transition: all 4s linear;" onclick="this.style.opacity = '.3'">click me</div>
 
