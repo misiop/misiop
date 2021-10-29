@@ -31,7 +31,7 @@
 
    
 <div align="center">
-    <img src="examm.svg" width="400" height="400">
+    <img src="examm.svg" width="400" height="400" alt="css-in-readme">
 </div>
 <!--
 **misiop/misiop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
