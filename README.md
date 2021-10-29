@@ -39,7 +39,7 @@
 <div id="target" style="transition: all 4s linear;" onclick="this.style.opacity = '.3'">click me</div>
 
 <div>
-    <img src="examm.svg" width="400" height="400" alt="css-in-readme">
+    <img src="examm.svg" width="1000" height="400" alt="css-in-readme">
 </div>
 
 <!--
