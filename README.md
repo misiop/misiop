@@ -31,7 +31,7 @@
 
    
 <div>
-    <img src="examm.svg" width="1000" height="400" alt="css-in-readme">
+    <img src="examp.svg" width="1000" height="400" alt="css-in-readme">
 </div>
 
 <!--
