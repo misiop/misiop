@@ -1,0 +1,22 @@
+
+<svg fill="none" viewBox="0 0 1000 400" width="1000" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            div {
+                position: relative;
+                animation-name: example;
+                animation-duration: 4s;
+              }
+              
+              @keyframes example {
+                0%   {left:0px; top:0px;}
+                100%  {left:1200px; top:0px;}
+              
+              }
+              
+            </style>
+            <img src="https://media3.giphy.com/media/4TgHD1Nf3h4CDuAwpC/giphy.gif?cid=790b761167fc6e417c7b4582d8599d5b68ae433c4e357df5&amp;rid=giphy.gif&amp;ct=s" alt="Back To The Future Volver Al Futuro Sticker by Koiron" style="width: 500px; height: 305.208px; left: 0px; top: 0px;">        
+        </div>
+    </foreignObject>
+</svg>
