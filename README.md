@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-<h1 align="center">¡Hola 👋! Soy Fernando Labrador <img alt="emoji animado Planta joven🌱 title="🌱planta joven" src="https://i.giphy.com/media/4TgHD1Nf3h4CDuAwpC/giphy.webp" height="35" width="35"></h1>
+<h1 align="center">¡Hola 👋! Soy Fernando Labrador <img alt="emoji animado Planta joven🌱 title="🌱planta joven" src="https://i.giphy.com/media/4TgHD1Nf3h4CDuAwpC/giphy.webp" height="350" width="350"></h1>
 
 <h3 align="center">
    Me apasiona la tecnología y la electrónica, entusiasta de la botanica
