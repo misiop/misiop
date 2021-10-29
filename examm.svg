@@ -1,9 +1,9 @@
 
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="50%" height="50%">
+    <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-            div {
+            img {
                 position: relative;
                 animation-name: example;
                 animation-duration: 4s;
@@ -15,8 +15,7 @@
               }
               
             </style>
-            <img src="https://media3.giphy.com/media/4TgHD1Nf3h4CDuAwpC/giphy.gif" alt="Back To The Future Volver Al Futuro Sticker by Koiron" style="width: 500px; height: 305.208px; left: 0px; top: 0px;"> 
-            <img src="examm.svg" width="400" height="200" >
+            <img src="https://user-images.githubusercontent.com/65266827/139374495-34ffd74d-e1ee-4704-ad5e-9147caedaa07.gif" alt="Back To The Future Volver Al Futuro Sticker by Koiron" style="width: 500px; height: 305.208px; left: 0px; top: 0px;"> 
         </div>
     </foreignObject>
 </svg>
