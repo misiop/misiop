@@ -1,10 +1,10 @@
 <!-- ### Hi there 👋 -->
-<h1 align="center">¡Hola 👋! Soy Fernando Labrador <img alt="emoji animado Planta joven🌱 title="🌱planta joven" src="https://i.giphy.com/media/4TgHD1Nf3h4CDuAwpC/giphy.webp" height="350" width="350"></h1>
+<h1 align="center">¡Hola 👋! Soy Fernando Labrador <img alt="emoji animado Planta joven🌱 title="🌱planta joven" src="https://www.emojiall.com/images/60/telegram/1f331.gif" height="35" width="35"></h1>
 
 <h3 align="center">
    Me apasiona la tecnología y la electrónica, entusiasta de la botanica
 </h3>
-<!--https://www.emojiall.com/images/60/telegram/1f331.gif https://cdn.akamai.steamstatic.com/store/halloween2021/ojo.png-->
+<!-- https://cdn.akamai.steamstatic.com/store/halloween2021/ojo.png-->
 
 <p align="center">Me encuentro formandome como <strong>Desarrollador MERN & MEAN </strong> <br /><br /></p>
 <p align="center">
@@ -27,6 +27,9 @@
   </a>
 </p>
 
+ <img src="https://media3.giphy.com/media/4TgHD1Nf3h4CDuAwpC/giphy.gif?cid=790b761167258cb090161b14823519bde7395ab6282d2406&amp;rid=giphy.gif&amp;ct=s" alt="Back To The Future Volver Al Futuro Sticker by Koiron" style="width: 500px; height: 305.208px; left: 0px; top: 0px;">  
+   
+   
 <!--
 **misiop/misiop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
