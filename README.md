@@ -31,7 +31,7 @@
 
    
 <div>
-    <img src="examm.svg" width="800" height="400" >
+    <img src="examm.svg" width="400" height="200" >
 </div>
 
 <!--
