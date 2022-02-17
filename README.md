@@ -17,7 +17,7 @@
 </p>
 <p align="center">
    <a href="mailto:flabradormb@gmail.com" target="blank" style='margin-right:8px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="flabradormb@gmail.com" style='fill: yellow' height="28px" width="28px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="flabradormb@gmail.com" style='fill:yellow' height="28px" width="28px" />
   </a>&emsp;
    <a href="https://www.linkedin.com/in/fernandolabradorb/" target="blank" style='margin-right:8px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="FernandoLabradorB" height="28px" width="28px" />
