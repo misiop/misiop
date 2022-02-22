@@ -29,7 +29,7 @@
 
    
    
- <img align='right' src="https://github.com/misiop/misiop/issues/4#issue-1147061640" width="230">
+ <img align='right' src="https://user-images.githubusercontent.com/65266827/155165947-a8494baf-26eb-4bd4-afd5-8d0ff4720e8f.png" width="230">
    
    
 <!--    
