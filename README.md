@@ -29,7 +29,7 @@
 
    
    
- <img align='right' src="https://user-images.githubusercontent.com/65266827/155165947-a8494baf-26eb-4bd4-afd5-8d0ff4720e8f.png" width="230">
+ <img align='right' src="https://user-images.githubusercontent.com/65266827/155179866-8f784c4d-2464-483a-b0bb-95e08c4f5595.png" width="230">
    
    
 <!--    
